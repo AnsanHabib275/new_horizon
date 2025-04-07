@@ -1,0 +1,40 @@
+// ignore_for_file: constant_identifier_names, camel_case_types
+class Route_paths {
+  static const String signups = '/';
+  static const String authlesssplash = '/authlesssplash';
+  static const String splash = '/splash';
+  static const String splash2 = '/splash2';
+  static const String signup = '/signup';
+  static const String signin = '/signin';
+  static const String home = '/home';
+  static const String bottomhome = '/bottomhome';
+  static const String productdetails = '/productdetails';
+  static const String personalinformation = '/personalinformation';
+  static const String payments = '/payments';
+  static const String forgetpassword = '/forgetpassword';
+  static const String resetpassword = '/resetpassword';
+  static const String products = '/products';
+  static const String addtocart = '/addtocart';
+  static const String datasubmission = '/datasubmission';
+  static const String menuscreen = '/menuscreen';
+  static const String pendingverification = '/pendingverification';
+  static const String orders = '/orders';
+  static const String shipping = '/shipping';
+  static const String benefitsverficationsuccess = '/benefitsuccess';
+  static const String history = '/history';
+  static const String historypending = '/historypending';
+  static const String historycompleted = '/historycompleted';
+  static const String billing = '/billing';
+  static const String otpscreen = '/otpscreen';
+  static const String favorite = '/favorite';
+  static const String benefitverification = '/benefitverification';
+  static const String uploaddoc = '/uploaddoc';
+  static const String patientspending = '/patientspending';
+  static const String patientsrejected = '/patientsrejected';
+  static const String bvsuccessscreen = '/bvsuccessscreen';
+  static const String adminDocs = '/admindocs';
+  static const String claimadminDocs = '/claimadmindocs';
+  static const String claimuserDocs = '/claimuserdocs';
+  static const String claimuploadDoc = '/claimuploaddoc';
+  static const String notifications = '/notifications';
+}
