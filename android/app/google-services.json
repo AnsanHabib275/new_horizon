@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241798175593",
+    "project_id": "new-horizon-e3eb8",
+    "storage_bucket": "new-horizon-e3eb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241798175593:android:0b7099ba31a06e40f37bf8",
+        "android_client_info": {
+          "package_name": "com.cbs.Newhorizonapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4pvMQGBvMjAjzTVwprQ9pHd4YcttPBY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
